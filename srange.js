@@ -308,4 +308,4 @@ if ('undefined' === typeof $imple) {
   this.getStringRange = getStringRange;
   this.getPatternRange = getPatternRange;
   
-}).call ($imple);
+}).call($imple);
